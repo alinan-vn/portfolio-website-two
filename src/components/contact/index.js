@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faWordpress } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope, faFile } from '@fortawesome/free-regular-svg-icons';
 import { faMobile } from '@fortawesome/free-solid-svg-icons';
-import Resume from '../../files/WebDevResume.pdf';
+import Resume from '../../files/alejandro-linan-resume.pdf';
 
 class Contact extends React.Component {
     render(){

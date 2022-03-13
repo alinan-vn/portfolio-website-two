@@ -10,7 +10,7 @@ class Landing extends React.Component{
                     Alejandro <span className='home__name--last'>Linan</span>
                 </h1>
                 <h2>
-                    Software Engineer, Fullstack Developer, Programmer
+                    Software Developer, Musician
                 </h2>
 
                 <Footer />
